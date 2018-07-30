@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="extent_report libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/Selenyum libs/extent_report libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/Selenyum libs/extent_report libs" recursive="false" />
+  </library>
+</component>
